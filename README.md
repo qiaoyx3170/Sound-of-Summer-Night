@@ -1,1 +1,1 @@
-# Summer-Night
+Final project for the course Computational Music Creativity.
