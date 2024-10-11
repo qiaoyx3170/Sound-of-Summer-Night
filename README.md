@@ -1,5 +1,4 @@
-Final project for the course Computational Music Creativity.
-
+Final project for the course Computational Music Creativity.  
 Demo video: https://drive.google.com/file/d/1fEm3ge1oEpCPTtRH3foAj0SDUkNc4FU0/view?usp=sharing
 
 ## Introduction
@@ -24,8 +23,6 @@ Mobmuplat is used to interact with pd with portable devices. The layout of the i
 The Insects are controlled by a multi- slider, which includes 4 sliders. That’s the reason its address needs to be unpacked first in pd patch. I use an XY-slider to control the duration and the velocity of the birds sounds, which contains 2 signals when read in pd patch. So, this XY-slider’s address should also be unpacked first.
 
 ### Reference
-[1]. Farnell, Andy. Designing sound. Mit Press, 2010.
-
-[2]. LWM, Making Mobile Music Apps with MobMuPlat & Pure Data
-
+[1]. Farnell, Andy. Designing sound. Mit Press, 2010.  
+[2]. LWM, Making Mobile Music Apps with MobMuPlat & Pure Data.  
 [3]. https://youtu.be/BKAvwc9DPo4
