@@ -6,4 +6,4 @@ In this project, I made a pd patch to imitate some sounds in nature, and a contr
 ### Pd patch
 The Pd patch contains 3 parts, sound-generating, sound-playing, and GUI-linking:
 
-![Pd Patch](Summer-Night/Screenshot of Pd patch.png)
+![Pd Patch](Summer-Night/Screenshot%20of%20Pd%20patch.png)
