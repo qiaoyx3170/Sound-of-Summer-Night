@@ -25,5 +25,7 @@ The Insects are controlled by a multi- slider, which includes 4 sliders. That’
 
 ### Reference
 [1]. Farnell, Andy. Designing sound. Mit Press, 2010.
+
 [2]. LWM, Making Mobile Music Apps with MobMuPlat & Pure Data
+
 [3]. https://youtu.be/BKAvwc9DPo4
